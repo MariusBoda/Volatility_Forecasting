@@ -5,3 +5,4 @@ scipy
 statsmodels
 arch
 scikit-learn
+yfinance
